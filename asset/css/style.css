@@ -1,0 +1,30 @@
+.container-content .content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container-content .content .desc{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container-content .content .form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-content .content .form form input {
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: 3px 3px;
+}
+.container-content .content .form form button {
+    padding: 5px 15px;
+    background-color: rgb(20, 71, 119);
+    color: white;
+    border-radius: 5px;
+}
+#hasil-calculate {
+    text-align: center;
+    margin-top: 50px;
+}
